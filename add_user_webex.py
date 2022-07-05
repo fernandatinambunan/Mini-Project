@@ -5,7 +5,7 @@
 # pip install requests json 
 import requests
 import json
-from main import send_email
+from sending_email import send_email
 
 # Define Method to post data to API
 def person_post(url, data):
