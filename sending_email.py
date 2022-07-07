@@ -4,10 +4,8 @@ import ssl
 from email.message import EmailMessage
 
 def send_email(emails):
-    #txt file containing the email password
-    password = "sandi.txt"
     email_sender = 'nandatinambunan13@gmail.com'
-    email_password =  password
+    email_password =  'email_password'
     email_receiver = emails
 
     #contents of the subject field
