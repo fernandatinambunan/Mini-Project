@@ -21,7 +21,7 @@ filepath = "user_email.txt"
 # room to add new users
 room_id = "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vMDU2NDZhYTAtZjlkNS0xMWVjLWIyYTEtZjdlZWRiZjUyMDhm" 
 # add webex api admin token 
-bearer = "NjhhZmNmMjktZjE1Mi00Y2M1LTliYmMtY2U0MjJlMDVhMjNhY2M1NjE1ZjItZGQ1_P0A1_cb008300-30e9-4832-8402-b7f63db3150c"
+bearer = "api_token"
 ##########################################################
 
 # empty list to hold the email addresses
